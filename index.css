@@ -1,0 +1,42 @@
+.col-sm-7 {
+  padding: 40px 0px 0px 50px;
+}
+
+.user-card {
+  width: 280px;
+  height: 220px;
+  background-color: #bf7f3f;
+  color: #fff;
+  border-radius: 20px;
+}
+
+
+
+.user-avatar {
+  height: 180px;
+  border-radius: 20px;
+}
+
+.user-title {
+  font-size: 22px;
+  font-weight: 400;
+}
+
+.user-wrap {
+  cursor: pointer;
+}
+
+.modal-content {
+  background-color: #bf7f3f;
+  color: #fff;
+  border-radius: 20px;
+}
+
+.user-card:hover {
+  transform: rotate(2deg);
+  filter: drop-shadow(10px 0px 0px rgba(0, 0, 0, 0.5));
+}
+
+.card-img-overlay {
+  z-index: 0;
+}
